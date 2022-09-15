@@ -191,7 +191,9 @@ Here are some important details about naming objects in R.
 
 There are a few more suggestions about naming and style you may want to learn
 more about as you write more R code. There are several "style guides" that
-have advice, and one to start with is the [tidyverse R style guide](http://style.tidyverse.org/index.html).
+have advice, with three popular guides including the [tidyverse R style guide](http://style.tidyverse.org/index.html),
+[Google's R style guide](https://google.github.io/styleguide/Rguide.xml),and [Jean
+Fan's R style guide](http://jef.works/R-style-guide/).
 
 > ## Tip: Pay attention to warnings in the script console
 >
